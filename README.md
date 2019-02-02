@@ -25,7 +25,7 @@
 
 ### My project
 
-- [Official Guide](http://vuejs.org/guide/)
+- 
 
 ### Manifest favicon
 
