@@ -37,3 +37,12 @@
 - [Cheat Sheet](https://reactcheatsheet.com/)
 - [Cheat Sheet](https://devhints.io/react)
 - [Cheat React Redux Router ES6](http://www.developer-cheatsheets.com/)
+
+### SVG
+
+- [Animation conturs](https://maxwellito.github.io/vivus/)
+- [Animation conturs](http://lazylinepainter.info/)
+- [Animation conturs](https://connoratherton.com/walkway)
+- [Chart and other](https://bonsaijs.org/)
+- [lib snap svg](http://snapsvg.io/)
+- [lib green sock](https://greensock.com/examples-showcases)
