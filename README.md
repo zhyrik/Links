@@ -16,6 +16,7 @@
 
 ### Image
 
+- [jpg png optimization](https://tinypng.com/)
 - [Pixabay](https://pixabay.com/)
 - [Unsplash(free)](https://unsplash.com/)
 - [Flirk](https://www.flickr.com/)
@@ -40,6 +41,7 @@
 
 ### SVG
 
+- [Optimization](https://github.com/svg/svgo/blob/master/README.ru.md)
 - [Animation conturs](https://maxwellito.github.io/vivus/)
 - [Animation conturs](http://lazylinepainter.info/)
 - [Animation conturs](https://connoratherton.com/walkway)
