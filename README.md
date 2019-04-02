@@ -26,7 +26,7 @@
 
 ### My project
 
-- 
+- [my cheat sheet](https://naughty-engelbart-324a8d.netlify.com/jest)
 
 ### Manifest favicon
 
