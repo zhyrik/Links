@@ -48,3 +48,8 @@
 - [Chart and other](https://bonsaijs.org/)
 - [lib snap svg](http://snapsvg.io/)
 - [lib green sock](https://greensock.com/examples-showcases)
+
+### Ubuntu
+
+- [unlock folder](http://bhargavigoswami.blogspot.com/2013/08/how-to-remove-lock-icon-from-my.html)
+- [limit](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers#the-technical-details)
