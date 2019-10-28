@@ -18,6 +18,14 @@
 - [Game](https://learngitbranching.js.org/)
 - [Game answers](https://github.com/greatyao/greatyao.github.com/blob/master/_posts/2013-12-22-learn-git-branching-solution-main.html)
 
+### Digital Marketing
+
+-[SimilarWeb - web statistiks](https://www.similarweb.com)
+-[google trends](https://trends.google.com/)
+-[image, baners redaktor](https://www.canva.com/)
+-[youtube keywords analiticks](https://vidiq.com/)
+-[keyword chrome extension](https://keywordseverywhere.com/)
+
 ### Image
 
 - [jpg png optimization](https://tinypng.com/)
