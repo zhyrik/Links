@@ -20,11 +20,11 @@
 
 ### Digital Marketing
 
--[SimilarWeb - web statistiks](https://www.similarweb.com)
--[google trends](https://trends.google.com/)
--[image, baners redaktor](https://www.canva.com/)
--[youtube keywords analiticks](https://vidiq.com/)
--[keyword chrome extension](https://keywordseverywhere.com/)
+- [SimilarWeb - web statistiks](https://www.similarweb.com)
+- [google trends](https://trends.google.com/)
+- [image, baners redaktor](https://www.canva.com/)
+- [youtube keywords analiticks](https://vidiq.com/)
+- [keyword chrome extension](https://keywordseverywhere.com/)
 
 ### Image
 
@@ -51,6 +51,10 @@
 - [Cheat Sheet](https://reactcheatsheet.com/)
 - [Cheat Sheet](https://devhints.io/react)
 - [Cheat React Redux Router ES6](http://www.developer-cheatsheets.com/)
+
+### SEO
+
+- [check errors](https://sitechecker.pro)
 
 ### SVG
 
