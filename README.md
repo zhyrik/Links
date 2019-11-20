@@ -55,6 +55,8 @@
 ### SEO
 
 - [check errors](https://sitechecker.pro)
+- [page spead](https://developers.google.com/)
+- [web page test](https://www.webpagetest.org/)
 
 ### SVG
 
